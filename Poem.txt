@@ -1,0 +1,37 @@
+**The Sun's Reflection**
+
+The sun's reflection, caught in puddles deep,
+A shimmered jewel where secrets softly sleep.
+It holds the sky, like canvas stretched on blue,
+But ripples distort, and dreamscape paints anew.
+
+Is this the world, reflected, fractured, strange?
+Or just a fleeting glimpse, a passing change?
+Does truth lie nestled in its depths unseen,
+Or is it simply light, a play on mirrored sheen?
+
+				Poem by -Melanie Simms. 
+
+It is part of her collection of poems titled 
+Remember the Sun: Poems on Nature and Inspiration (2014)
+
+prompt:- write a clear and coherent answer that demonstrates question understanding and analysis of the poem.
+
+Question:- The Sun's Reflection,' the poet plays with the image of a puddle reflecting the sky. How does this image contribute to the poem's central theme? Consider elements like form, language, and symbolism in your answer.
+
+Ideal Answer:- The puddle serves as a powerful symbol for a world filled with uncertainty and fragmented perspectives. The distorted reflection of the sky challenges us to question whether we perceive reality accurately or merely see our own projections. The use of short, choppy lines mirrors the ripples in the water, further emphasizing the fragmented nature of our experience. The poem's ambiguity, with its unanswered questions, invites us to contemplate the relationship between truth, illusion, and our own internal landscapes.
+
+Student answer :- The puddle simply reflects the sky, showing us the beauty of nature. The poem is a call to appreciate the ordinary things around us.
+
+Now evaluate student answer w.r.t. Ideal answer provided for the particular question.
+
+Designing prompt template:-
+
+Accuracy (A) = 0-1 (Low-High)
+Keywords (K) = 0-1 (Low-High)
+Grammer and Punctuation (G)= 0-1 (Low-High)
+
+Define a score based on Accuracy, Keywords and Grammer + Punctuation
+
+=((A+K+G)/3)*10 TO GET SCORE OUTOUF 10
+
